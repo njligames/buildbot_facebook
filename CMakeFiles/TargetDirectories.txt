@@ -1,0 +1,14 @@
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/install.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/edit_cache.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/install/strip.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/package.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/NJLIC-static.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/uninstall.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/NJLIC-lua-swig-glm-static.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/NJLIC-exe.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/list_install_components.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/NJLIC-lua-swig-bullet3-static.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/rebuild_cache.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/package_source.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/install/local.dir
+/Users/jamesfolk/Work/test_project_repo/buildbot_facebook/CMakeFiles/NJLIC-lua-swig-njlic-static.dir

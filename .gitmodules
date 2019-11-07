@@ -1,0 +1,9 @@
+[submodule "njligames-njlic_engine"]
+	path = njligames-njlic_engine
+	url = https://github.com/njligames/njligames-njlic_engine.git
+[submodule "gameproject"]
+	path = gameproject
+	url = https://github.com/njligames/gameproject.git
+[submodule "cmake.in"]
+	path = cmake.in
+	url = https://github.com/njligames/cmake.in.git

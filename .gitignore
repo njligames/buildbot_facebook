@@ -1,0 +1,10 @@
+.DS_Store
+
+index.*
+*.zip
+install/
+libNJLIC-lua-swig-bullet3-static.a
+libNJLIC-lua-swig-glm-static.a
+libNJLIC-static.a
+facebook.js
+facebook_shell.html
